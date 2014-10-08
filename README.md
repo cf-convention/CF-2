@@ -1,4 +1,4 @@
-CF-2.0
+CF-2
 ======
 
 Group Repo
