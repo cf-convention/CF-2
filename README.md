@@ -25,3 +25,14 @@ A discussion group for version 2 of the CF Conventions.
 
 3. At some point we may consider transitioning to a collection of versioned documents in the repository.
 
+### Links
+
+* [CF Conventions Home](http://cfconventions.org/)
+
+#### From Unidata:
+* [Developing Conventions for NetCDF-4](http://www.unidata.ucar.edu/software/netcdf/papers/nc4_conventions.html)
+* [NetCDF Users Guide](http://www.unidata.ucar.edu/software/netcdf/docs/html_guide/index.html#user_guide)
+* [NetCDF C Library Documentation](http://www.unidata.ucar.edu/software/netcdf/docs/index.html)
+* [Unidata's Common Data Model] (http://www.unidata.ucar.edu/software/thredds/current/netcdf-java/CDM/)
+* [NetCDF Java Library Documentation](http://www.unidata.ucar.edu/software/thredds/v4.5/netcdf-java/documentation.htm)
+
